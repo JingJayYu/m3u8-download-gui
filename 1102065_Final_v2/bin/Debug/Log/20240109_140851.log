@@ -1,0 +1,333 @@
+2024/1/9 下午 02:08:51: Initialing
+2024/1/9 下午 02:08:51: Set UserAgent to Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0
+2024/1/9 下午 02:08:51: Set Referer to https://v.myself-bbs.com/
+2024/1/9 下午 02:08:51: Program Start
+2024/1/9 下午 02:08:51: Parsing with https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/index.m3u8
+2024/1/9 下午 02:08:52: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/index.m3u8 OK
+2024/1/9 下午 02:08:52: Parsing https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/index.m3u8 Sucess
+2024/1/9 下午 02:08:52: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0000.ts OK
+2024/1/9 下午 02:08:52: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0000.ts
+2024/1/9 下午 02:08:53: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0001.ts OK
+2024/1/9 下午 02:08:53: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0001.ts
+2024/1/9 下午 02:08:53: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0003.ts OK
+2024/1/9 下午 02:08:53: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0003.ts
+2024/1/9 下午 02:08:54: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0004.ts OK
+2024/1/9 下午 02:08:54: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0004.ts
+2024/1/9 下午 02:08:54: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0007.ts OK
+2024/1/9 下午 02:08:54: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0007.ts
+2024/1/9 下午 02:08:54: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0009.ts OK
+2024/1/9 下午 02:08:54: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0009.ts
+2024/1/9 下午 02:08:54: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0002.ts OK
+2024/1/9 下午 02:08:54: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0002.ts
+2024/1/9 下午 02:08:54: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0011.ts OK
+2024/1/9 下午 02:08:54: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0011.ts
+2024/1/9 下午 02:08:54: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0005.ts OK
+2024/1/9 下午 02:08:54: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0005.ts
+2024/1/9 下午 02:08:54: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0006.ts OK
+2024/1/9 下午 02:08:54: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0006.ts
+2024/1/9 下午 02:08:54: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0013.ts OK
+2024/1/9 下午 02:08:54: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0013.ts
+2024/1/9 下午 02:08:55: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0015.ts OK
+2024/1/9 下午 02:08:55: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0015.ts
+2024/1/9 下午 02:08:55: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0017.ts OK
+2024/1/9 下午 02:08:55: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0017.ts
+2024/1/9 下午 02:08:55: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0019.ts OK
+2024/1/9 下午 02:08:55: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0019.ts
+2024/1/9 下午 02:08:55: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0020.ts OK
+2024/1/9 下午 02:08:55: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0020.ts
+2024/1/9 下午 02:08:56: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0008.ts OK
+2024/1/9 下午 02:08:56: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0008.ts
+2024/1/9 下午 02:08:56: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0021.ts OK
+2024/1/9 下午 02:08:56: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0021.ts
+2024/1/9 下午 02:08:56: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0022.ts OK
+2024/1/9 下午 02:08:56: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0022.ts
+2024/1/9 下午 02:08:56: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0023.ts OK
+2024/1/9 下午 02:08:56: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0023.ts
+2024/1/9 下午 02:08:57: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0025.ts OK
+2024/1/9 下午 02:08:57: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0025.ts
+2024/1/9 下午 02:08:57: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0026.ts OK
+2024/1/9 下午 02:08:57: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0026.ts
+2024/1/9 下午 02:08:57: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0010.ts OK
+2024/1/9 下午 02:08:57: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0010.ts
+2024/1/9 下午 02:08:57: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0012.ts OK
+2024/1/9 下午 02:08:57: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0012.ts
+2024/1/9 下午 02:08:58: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0014.ts OK
+2024/1/9 下午 02:08:58: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0014.ts
+2024/1/9 下午 02:08:58: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0016.ts OK
+2024/1/9 下午 02:08:58: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0016.ts
+2024/1/9 下午 02:08:58: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0018.ts OK
+2024/1/9 下午 02:08:58: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0018.ts
+2024/1/9 下午 02:08:58: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0024.ts OK
+2024/1/9 下午 02:08:58: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0024.ts
+2024/1/9 下午 02:08:58: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0029.ts OK
+2024/1/9 下午 02:08:58: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0029.ts
+2024/1/9 下午 02:08:58: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0030.ts OK
+2024/1/9 下午 02:08:58: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0030.ts
+2024/1/9 下午 02:08:59: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0031.ts OK
+2024/1/9 下午 02:08:59: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0031.ts
+2024/1/9 下午 02:08:59: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0032.ts OK
+2024/1/9 下午 02:08:59: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0032.ts
+2024/1/9 下午 02:08:59: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0033.ts OK
+2024/1/9 下午 02:08:59: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0033.ts
+2024/1/9 下午 02:09:00: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0027.ts OK
+2024/1/9 下午 02:09:00: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0027.ts
+2024/1/9 下午 02:09:00: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0035.ts OK
+2024/1/9 下午 02:09:00: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0035.ts
+2024/1/9 下午 02:09:01: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0036.ts OK
+2024/1/9 下午 02:09:01: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0036.ts
+2024/1/9 下午 02:09:01: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0037.ts OK
+2024/1/9 下午 02:09:01: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0037.ts
+2024/1/9 下午 02:09:01: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0028.ts OK
+2024/1/9 下午 02:09:01: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0028.ts
+2024/1/9 下午 02:09:01: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0034.ts OK
+2024/1/9 下午 02:09:01: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0038.ts OK
+2024/1/9 下午 02:09:01: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0034.ts
+2024/1/9 下午 02:09:01: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0038.ts
+2024/1/9 下午 02:09:01: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0039.ts OK
+2024/1/9 下午 02:09:01: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0039.ts
+2024/1/9 下午 02:09:01: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0040.ts OK
+2024/1/9 下午 02:09:01: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0040.ts
+2024/1/9 下午 02:09:02: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0041.ts OK
+2024/1/9 下午 02:09:02: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0041.ts
+2024/1/9 下午 02:09:02: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0042.ts OK
+2024/1/9 下午 02:09:02: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0042.ts
+2024/1/9 下午 02:09:02: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0043.ts OK
+2024/1/9 下午 02:09:02: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0043.ts
+2024/1/9 下午 02:09:02: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0046.ts OK
+2024/1/9 下午 02:09:02: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0046.ts
+2024/1/9 下午 02:09:02: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0044.ts OK
+2024/1/9 下午 02:09:02: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0044.ts
+2024/1/9 下午 02:09:02: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0045.ts OK
+2024/1/9 下午 02:09:02: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0045.ts
+2024/1/9 下午 02:09:02: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0051.ts OK
+2024/1/9 下午 02:09:02: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0051.ts
+2024/1/9 下午 02:09:02: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0055.ts OK
+2024/1/9 下午 02:09:02: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0055.ts
+2024/1/9 下午 02:09:02: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0056.ts OK
+2024/1/9 下午 02:09:02: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0056.ts
+2024/1/9 下午 02:09:02: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0059.ts OK
+2024/1/9 下午 02:09:02: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0059.ts
+2024/1/9 下午 02:09:02: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0060.ts OK
+2024/1/9 下午 02:09:02: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0060.ts
+2024/1/9 下午 02:09:02: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0061.ts OK
+2024/1/9 下午 02:09:02: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0061.ts
+2024/1/9 下午 02:09:02: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0062.ts OK
+2024/1/9 下午 02:09:02: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0062.ts
+2024/1/9 下午 02:09:02: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0064.ts OK
+2024/1/9 下午 02:09:02: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0064.ts
+2024/1/9 下午 02:09:02: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0065.ts OK
+2024/1/9 下午 02:09:02: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0065.ts
+2024/1/9 下午 02:09:02: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0066.ts OK
+2024/1/9 下午 02:09:02: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0066.ts
+2024/1/9 下午 02:09:02: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0067.ts OK
+2024/1/9 下午 02:09:03: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0067.ts
+2024/1/9 下午 02:09:03: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0068.ts OK
+2024/1/9 下午 02:09:03: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0068.ts
+2024/1/9 下午 02:09:03: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0047.ts OK
+2024/1/9 下午 02:09:03: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0047.ts
+2024/1/9 下午 02:09:03: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0069.ts OK
+2024/1/9 下午 02:09:03: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0069.ts
+2024/1/9 下午 02:09:03: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0070.ts OK
+2024/1/9 下午 02:09:03: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0070.ts
+2024/1/9 下午 02:09:03: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0071.ts OK
+2024/1/9 下午 02:09:03: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0071.ts
+2024/1/9 下午 02:09:03: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0072.ts OK
+2024/1/9 下午 02:09:03: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0072.ts
+2024/1/9 下午 02:09:03: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0073.ts OK
+2024/1/9 下午 02:09:03: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0073.ts
+2024/1/9 下午 02:09:03: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0074.ts OK
+2024/1/9 下午 02:09:03: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0074.ts
+2024/1/9 下午 02:09:03: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0075.ts OK
+2024/1/9 下午 02:09:03: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0075.ts
+2024/1/9 下午 02:09:03: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0076.ts OK
+2024/1/9 下午 02:09:03: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0076.ts
+2024/1/9 下午 02:09:03: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0077.ts OK
+2024/1/9 下午 02:09:03: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0077.ts
+2024/1/9 下午 02:09:03: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0048.ts OK
+2024/1/9 下午 02:09:03: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0048.ts
+2024/1/9 下午 02:09:03: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0079.ts OK
+2024/1/9 下午 02:09:03: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0079.ts
+2024/1/9 下午 02:09:04: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0080.ts OK
+2024/1/9 下午 02:09:04: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0080.ts
+2024/1/9 下午 02:09:04: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0081.ts OK
+2024/1/9 下午 02:09:04: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0081.ts
+2024/1/9 下午 02:09:04: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0082.ts OK
+2024/1/9 下午 02:09:04: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0082.ts
+2024/1/9 下午 02:09:04: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0049.ts OK
+2024/1/9 下午 02:09:04: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0049.ts
+2024/1/9 下午 02:09:04: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0083.ts OK
+2024/1/9 下午 02:09:04: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0083.ts
+2024/1/9 下午 02:09:04: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0084.ts OK
+2024/1/9 下午 02:09:04: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0084.ts
+2024/1/9 下午 02:09:04: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0050.ts OK
+2024/1/9 下午 02:09:04: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0050.ts
+2024/1/9 下午 02:09:04: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0085.ts OK
+2024/1/9 下午 02:09:04: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0085.ts
+2024/1/9 下午 02:09:04: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0087.ts OK
+2024/1/9 下午 02:09:04: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0087.ts
+2024/1/9 下午 02:09:04: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0052.ts OK
+2024/1/9 下午 02:09:04: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0052.ts
+2024/1/9 下午 02:09:04: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0088.ts OK
+2024/1/9 下午 02:09:04: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0088.ts
+2024/1/9 下午 02:09:05: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0089.ts OK
+2024/1/9 下午 02:09:05: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0089.ts
+2024/1/9 下午 02:09:05: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0053.ts OK
+2024/1/9 下午 02:09:05: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0090.ts OK
+2024/1/9 下午 02:09:05: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0053.ts
+2024/1/9 下午 02:09:05: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0090.ts
+2024/1/9 下午 02:09:05: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0091.ts OK
+2024/1/9 下午 02:09:05: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0091.ts
+2024/1/9 下午 02:09:05: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0092.ts OK
+2024/1/9 下午 02:09:05: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0092.ts
+2024/1/9 下午 02:09:05: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0093.ts OK
+2024/1/9 下午 02:09:05: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0093.ts
+2024/1/9 下午 02:09:05: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0054.ts OK
+2024/1/9 下午 02:09:05: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0054.ts
+2024/1/9 下午 02:09:06: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0057.ts OK
+2024/1/9 下午 02:09:06: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0057.ts
+2024/1/9 下午 02:09:06: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0095.ts OK
+2024/1/9 下午 02:09:06: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0095.ts
+2024/1/9 下午 02:09:06: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0096.ts OK
+2024/1/9 下午 02:09:06: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0096.ts
+2024/1/9 下午 02:09:06: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0098.ts OK
+2024/1/9 下午 02:09:06: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0098.ts
+2024/1/9 下午 02:09:06: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0058.ts OK
+2024/1/9 下午 02:09:06: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0058.ts
+2024/1/9 下午 02:09:06: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0099.ts OK
+2024/1/9 下午 02:09:06: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0099.ts
+2024/1/9 下午 02:09:06: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0101.ts OK
+2024/1/9 下午 02:09:06: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0101.ts
+2024/1/9 下午 02:09:06: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0063.ts OK
+2024/1/9 下午 02:09:06: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0063.ts
+2024/1/9 下午 02:09:06: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0102.ts OK
+2024/1/9 下午 02:09:06: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0102.ts
+2024/1/9 下午 02:09:07: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0104.ts OK
+2024/1/9 下午 02:09:07: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0104.ts
+2024/1/9 下午 02:09:07: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0105.ts OK
+2024/1/9 下午 02:09:07: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0105.ts
+2024/1/9 下午 02:09:07: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0106.ts OK
+2024/1/9 下午 02:09:07: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0106.ts
+2024/1/9 下午 02:09:07: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0078.ts OK
+2024/1/9 下午 02:09:07: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0078.ts
+2024/1/9 下午 02:09:07: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0108.ts OK
+2024/1/9 下午 02:09:07: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0108.ts
+2024/1/9 下午 02:09:08: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0086.ts OK
+2024/1/9 下午 02:09:08: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0086.ts
+2024/1/9 下午 02:09:08: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0110.ts OK
+2024/1/9 下午 02:09:08: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0110.ts
+2024/1/9 下午 02:09:08: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0094.ts OK
+2024/1/9 下午 02:09:08: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0094.ts
+2024/1/9 下午 02:09:08: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0111.ts OK
+2024/1/9 下午 02:09:08: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0111.ts
+2024/1/9 下午 02:09:08: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0112.ts OK
+2024/1/9 下午 02:09:08: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0112.ts
+2024/1/9 下午 02:09:08: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0097.ts OK
+2024/1/9 下午 02:09:08: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0097.ts
+2024/1/9 下午 02:09:08: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0114.ts OK
+2024/1/9 下午 02:09:08: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0114.ts
+2024/1/9 下午 02:09:08: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0100.ts OK
+2024/1/9 下午 02:09:08: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0100.ts
+2024/1/9 下午 02:09:08: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0103.ts OK
+2024/1/9 下午 02:09:08: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0103.ts
+2024/1/9 下午 02:09:09: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0115.ts OK
+2024/1/9 下午 02:09:09: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0115.ts
+2024/1/9 下午 02:09:09: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0117.ts OK
+2024/1/9 下午 02:09:09: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0117.ts
+2024/1/9 下午 02:09:09: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0107.ts OK
+2024/1/9 下午 02:09:09: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0107.ts
+2024/1/9 下午 02:09:09: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0118.ts OK
+2024/1/9 下午 02:09:09: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0118.ts
+2024/1/9 下午 02:09:09: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0109.ts OK
+2024/1/9 下午 02:09:09: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0109.ts
+2024/1/9 下午 02:09:09: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0119.ts OK
+2024/1/9 下午 02:09:09: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0119.ts
+2024/1/9 下午 02:09:10: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0120.ts OK
+2024/1/9 下午 02:09:10: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0120.ts
+2024/1/9 下午 02:09:10: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0113.ts OK
+2024/1/9 下午 02:09:10: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0113.ts
+2024/1/9 下午 02:09:10: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0122.ts OK
+2024/1/9 下午 02:09:10: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0122.ts
+2024/1/9 下午 02:09:10: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0124.ts OK
+2024/1/9 下午 02:09:10: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0124.ts
+2024/1/9 下午 02:09:11: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0116.ts OK
+2024/1/9 下午 02:09:11: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0116.ts
+2024/1/9 下午 02:09:11: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0126.ts OK
+2024/1/9 下午 02:09:11: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0126.ts
+2024/1/9 下午 02:09:11: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0127.ts OK
+2024/1/9 下午 02:09:11: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0127.ts
+2024/1/9 下午 02:09:11: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0129.ts OK
+2024/1/9 下午 02:09:11: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0129.ts
+2024/1/9 下午 02:09:11: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0132.ts OK
+2024/1/9 下午 02:09:11: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0132.ts
+2024/1/9 下午 02:09:11: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0133.ts OK
+2024/1/9 下午 02:09:11: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0133.ts
+2024/1/9 下午 02:09:12: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0136.ts OK
+2024/1/9 下午 02:09:12: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0136.ts
+2024/1/9 下午 02:09:12: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0121.ts OK
+2024/1/9 下午 02:09:12: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0121.ts
+2024/1/9 下午 02:09:12: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0123.ts OK
+2024/1/9 下午 02:09:12: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0123.ts
+2024/1/9 下午 02:09:13: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0125.ts OK
+2024/1/9 下午 02:09:13: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0125.ts
+2024/1/9 下午 02:09:13: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0128.ts OK
+2024/1/9 下午 02:09:13: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0128.ts
+2024/1/9 下午 02:09:14: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0130.ts OK
+2024/1/9 下午 02:09:14: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0130.ts
+2024/1/9 下午 02:09:14: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0131.ts OK
+2024/1/9 下午 02:09:14: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0131.ts
+2024/1/9 下午 02:09:14: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0134.ts OK
+2024/1/9 下午 02:09:14: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0134.ts
+2024/1/9 下午 02:09:15: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0137.ts OK
+2024/1/9 下午 02:09:15: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0137.ts
+2024/1/9 下午 02:09:15: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0135.ts OK
+2024/1/9 下午 02:09:15: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0135.ts
+2024/1/9 下午 02:09:18: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0139.ts OK
+2024/1/9 下午 02:09:18: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0139.ts
+2024/1/9 下午 02:09:18: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0138.ts OK
+2024/1/9 下午 02:09:18: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0138.ts
+2024/1/9 下午 02:09:20: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0140.ts OK
+2024/1/9 下午 02:09:20: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0140.ts
+2024/1/9 下午 02:09:23: Requesting from https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0141.ts OK
+2024/1/9 下午 02:09:23: Start Downloading https://vpx13.myself-bbs.com/hls/QR/0A/Al/AgADQR0AAl3wqVQ/0141.ts
+2024/1/9 下午 02:09:24: All files are downloaded, Start merge files
+2024/1/9 下午 02:09:26: Merge files Success!
+2024/1/9 下午 02:09:26: Starting Convert
+2024/1/9 下午 02:09:28: ffmpeg version 2024-01-04-git-33698ef891-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 12.2.0 (Rev10, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --pkg-config=pkgconf --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-dxva2 --enable-d3d11va --enable-libvpl --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      58. 36.101 / 58. 36.101
+  libavcodec     60. 37.100 / 60. 37.100
+  libavformat    60. 20.100 / 60. 20.100
+  libavdevice    60.  4.100 / 60.  4.100
+  libavfilter     9. 16.100 /  9. 16.100
+  libswscale      7.  6.100 /  7.  6.100
+  libswresample   4. 13.100 /  4. 13.100
+  libpostproc    57.  4.100 / 57.  4.100
+Input #0, mpegts, from 'C:\Users\JingJ\Videos/20240109_140851.ts':
+  Duration: 00:23:40.22, start: 1.462089, bitrate: 638 kb/s
+  Program 1 
+    Metadata:
+      service_name    : Service01
+      service_provider: FFmpeg
+  Stream #0:0[0x100]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 90k tbn
+  Stream #0:1[0x101](und): Audio: aac (LC) ([15][0][0][0] / 0x000F), 48000 Hz, stereo, fltp, 104 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #0:1 -> #0:1 (copy)
+Output #0, mp4, to 'C:\Users\JingJ\Videos/20240109_140851.mp4':
+  Metadata:
+    encoder         : Lavf60.20.100
+  Stream #0:0: Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], q=2-31, 23.98 fps, 23.98 tbr, 90k tbn
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 104 kb/s
+Press [q] to stop, [?] for help
+size=   30976kB time=00:07:38.79 bitrate= 553.1kbits/s speed= 908x    
+size=   57600kB time=00:15:24.94 bitrate= 510.1kbits/s speed= 906x    
+size=   88832kB time=00:22:55.18 bitrate= 529.2kbits/s speed= 895x    
+[out#0/mp4 @ 000001de6fa8ecc0] video:80265kB audio:23178kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.613801%
+size=  104078kB time=00:23:40.10 bitrate= 600.4kbits/s speed= 895x    
+
+2024/1/9 下午 02:09:28: Convert Success
+2024/1/9 下午 02:09:28: Deleting all .ts files from tmp folder
+2024/1/9 下午 02:09:28: All .ts files are deleted
+2024/1/9 下午 02:09:28: Saving Log to ./Log/20240109_140851.log
+

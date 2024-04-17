@@ -1,0 +1,19 @@
+{
+  "Form1": {
+    "Formats": [
+      "mp4",
+      "mkv",
+      "ts",
+      "mov"
+    ]
+  },
+  "M3U8": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0",
+    "Referers": [
+      {
+        "Website": "myself-bbs.com",
+        "Referer": "https://v.myself-bbs.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,335 @@
+2024/1/9 上午 11:04:11: Initialing
+2024/1/9 上午 11:04:11: Set UserAgent to Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0
+2024/1/9 上午 11:04:11: Set Referer to https://v.myself-bbs.com/
+2024/1/9 上午 11:04:11: Program Start
+2024/1/9 上午 11:04:11: Parsing with https://vpx05.myself-bbs.com/vpx/48647/001/720p.m3u8
+2024/1/9 上午 11:04:12: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p.m3u8 OK
+2024/1/9 上午 11:04:12: Parsing https://vpx05.myself-bbs.com/vpx/48647/001/720p.m3u8 Sucess
+2024/1/9 上午 11:04:12: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_000.ts OK
+2024/1/9 上午 11:04:12: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_000.ts
+2024/1/9 上午 11:04:13: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_007.ts OK
+2024/1/9 上午 11:04:13: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_007.ts
+2024/1/9 上午 11:04:13: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_004.ts OK
+2024/1/9 上午 11:04:13: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_004.ts
+2024/1/9 上午 11:04:14: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_003.ts OK
+2024/1/9 上午 11:04:14: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_003.ts
+2024/1/9 上午 11:04:14: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_002.ts OK
+2024/1/9 上午 11:04:14: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_002.ts
+2024/1/9 上午 11:04:14: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_008.ts OK
+2024/1/9 上午 11:04:14: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_008.ts
+2024/1/9 上午 11:04:14: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_010.ts OK
+2024/1/9 上午 11:04:14: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_010.ts
+2024/1/9 上午 11:04:14: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_005.ts OK
+2024/1/9 上午 11:04:14: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_005.ts
+2024/1/9 上午 11:04:14: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_011.ts OK
+2024/1/9 上午 11:04:14: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_011.ts
+2024/1/9 上午 11:04:14: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_012.ts OK
+2024/1/9 上午 11:04:14: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_012.ts
+2024/1/9 上午 11:04:15: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_006.ts OK
+2024/1/9 上午 11:04:15: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_006.ts
+2024/1/9 上午 11:04:15: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_013.ts OK
+2024/1/9 上午 11:04:15: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_013.ts
+2024/1/9 上午 11:04:15: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_001.ts OK
+2024/1/9 上午 11:04:15: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_001.ts
+2024/1/9 上午 11:04:15: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_009.ts OK
+2024/1/9 上午 11:04:15: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_009.ts
+2024/1/9 上午 11:04:15: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_016.ts OK
+2024/1/9 上午 11:04:15: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_016.ts
+2024/1/9 上午 11:04:15: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_018.ts OK
+2024/1/9 上午 11:04:15: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_018.ts
+2024/1/9 上午 11:04:15: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_020.ts OK
+2024/1/9 上午 11:04:15: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_020.ts
+2024/1/9 上午 11:04:15: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_014.ts OK
+2024/1/9 上午 11:04:15: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_014.ts
+2024/1/9 上午 11:04:16: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_015.ts OK
+2024/1/9 上午 11:04:16: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_015.ts
+2024/1/9 上午 11:04:16: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_021.ts OK
+2024/1/9 上午 11:04:16: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_021.ts
+2024/1/9 上午 11:04:16: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_017.ts OK
+2024/1/9 上午 11:04:16: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_017.ts
+2024/1/9 上午 11:04:16: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_022.ts OK
+2024/1/9 上午 11:04:16: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_022.ts
+2024/1/9 上午 11:04:17: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_019.ts OK
+2024/1/9 上午 11:04:17: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_019.ts
+2024/1/9 上午 11:04:17: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_024.ts OK
+2024/1/9 上午 11:04:17: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_024.ts
+2024/1/9 上午 11:04:17: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_025.ts OK
+2024/1/9 上午 11:04:17: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_025.ts
+2024/1/9 上午 11:04:20: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_023.ts OK
+2024/1/9 上午 11:04:20: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_023.ts
+2024/1/9 上午 11:04:20: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_027.ts OK
+2024/1/9 上午 11:04:20: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_027.ts
+2024/1/9 上午 11:04:21: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_028.ts OK
+2024/1/9 上午 11:04:21: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_028.ts
+2024/1/9 上午 11:04:21: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_026.ts OK
+2024/1/9 上午 11:04:21: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_026.ts
+2024/1/9 上午 11:04:23: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_030.ts OK
+2024/1/9 上午 11:04:23: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_030.ts
+2024/1/9 上午 11:04:24: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_029.ts OK
+2024/1/9 上午 11:04:24: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_029.ts
+2024/1/9 上午 11:04:24: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_031.ts OK
+2024/1/9 上午 11:04:24: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_031.ts
+2024/1/9 上午 11:04:25: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_036.ts OK
+2024/1/9 上午 11:04:25: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_036.ts
+2024/1/9 上午 11:04:25: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_032.ts OK
+2024/1/9 上午 11:04:25: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_032.ts
+2024/1/9 上午 11:04:25: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_033.ts OK
+2024/1/9 上午 11:04:25: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_033.ts
+2024/1/9 上午 11:04:25: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_035.ts OK
+2024/1/9 上午 11:04:25: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_035.ts
+2024/1/9 上午 11:04:25: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_034.ts OK
+2024/1/9 上午 11:04:25: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_034.ts
+2024/1/9 上午 11:04:25: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_038.ts OK
+2024/1/9 上午 11:04:25: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_038.ts
+2024/1/9 上午 11:04:26: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_037.ts OK
+2024/1/9 上午 11:04:26: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_037.ts
+2024/1/9 上午 11:04:26: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_039.ts OK
+2024/1/9 上午 11:04:26: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_039.ts
+2024/1/9 上午 11:04:26: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_040.ts OK
+2024/1/9 上午 11:04:26: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_040.ts
+2024/1/9 上午 11:04:29: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_042.ts OK
+2024/1/9 上午 11:04:29: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_042.ts
+2024/1/9 上午 11:04:29: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_041.ts OK
+2024/1/9 上午 11:04:29: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_041.ts
+2024/1/9 上午 11:04:30: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_043.ts OK
+2024/1/9 上午 11:04:30: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_043.ts
+2024/1/9 上午 11:04:31: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_044.ts OK
+2024/1/9 上午 11:04:31: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_044.ts
+2024/1/9 上午 11:04:31: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_045.ts OK
+2024/1/9 上午 11:04:31: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_045.ts
+2024/1/9 上午 11:04:31: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_046.ts OK
+2024/1/9 上午 11:04:31: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_046.ts
+2024/1/9 上午 11:04:31: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_048.ts OK
+2024/1/9 上午 11:04:31: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_048.ts
+2024/1/9 上午 11:04:32: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_047.ts OK
+2024/1/9 上午 11:04:32: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_047.ts
+2024/1/9 上午 11:04:35: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_050.ts OK
+2024/1/9 上午 11:04:35: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_050.ts
+2024/1/9 上午 11:04:35: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_049.ts OK
+2024/1/9 上午 11:04:35: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_049.ts
+2024/1/9 上午 11:04:35: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_051.ts OK
+2024/1/9 上午 11:04:35: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_051.ts
+2024/1/9 上午 11:04:35: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_052.ts OK
+2024/1/9 上午 11:04:35: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_052.ts
+2024/1/9 上午 11:04:37: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_054.ts OK
+2024/1/9 上午 11:04:37: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_054.ts
+2024/1/9 上午 11:04:37: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_053.ts OK
+2024/1/9 上午 11:04:37: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_053.ts
+2024/1/9 上午 11:04:37: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_055.ts OK
+2024/1/9 上午 11:04:37: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_055.ts
+2024/1/9 上午 11:04:37: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_059.ts OK
+2024/1/9 上午 11:04:37: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_059.ts
+2024/1/9 上午 11:04:38: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_060.ts OK
+2024/1/9 上午 11:04:38: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_060.ts
+2024/1/9 上午 11:04:38: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_061.ts OK
+2024/1/9 上午 11:04:38: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_061.ts
+2024/1/9 上午 11:04:39: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_058.ts OK
+2024/1/9 上午 11:04:39: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_058.ts
+2024/1/9 上午 11:04:39: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_063.ts OK
+2024/1/9 上午 11:04:39: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_063.ts
+2024/1/9 上午 11:04:39: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_057.ts OK
+2024/1/9 上午 11:04:39: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_057.ts
+2024/1/9 上午 11:04:39: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_056.ts OK
+2024/1/9 上午 11:04:39: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_056.ts
+2024/1/9 上午 11:04:39: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_064.ts OK
+2024/1/9 上午 11:04:39: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_064.ts
+2024/1/9 上午 11:04:42: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_065.ts OK
+2024/1/9 上午 11:04:42: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_065.ts
+2024/1/9 上午 11:04:43: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_062.ts OK
+2024/1/9 上午 11:04:43: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_062.ts
+2024/1/9 上午 11:04:43: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_068.ts OK
+2024/1/9 上午 11:04:43: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_068.ts
+2024/1/9 上午 11:04:43: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_070.ts OK
+2024/1/9 上午 11:04:43: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_070.ts
+2024/1/9 上午 11:04:43: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_066.ts OK
+2024/1/9 上午 11:04:43: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_066.ts
+2024/1/9 上午 11:04:48: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_072.ts OK
+2024/1/9 上午 11:04:48: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_072.ts
+2024/1/9 上午 11:04:48: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_067.ts OK
+2024/1/9 上午 11:04:48: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_067.ts
+2024/1/9 上午 11:04:48: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_074.ts OK
+2024/1/9 上午 11:04:48: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_074.ts
+2024/1/9 上午 11:04:48: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_069.ts OK
+2024/1/9 上午 11:04:48: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_069.ts
+2024/1/9 上午 11:04:49: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_071.ts OK
+2024/1/9 上午 11:04:49: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_071.ts
+2024/1/9 上午 11:04:51: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_076.ts OK
+2024/1/9 上午 11:04:51: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_076.ts
+2024/1/9 上午 11:04:51: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_073.ts OK
+2024/1/9 上午 11:04:51: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_073.ts
+2024/1/9 上午 11:04:51: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_077.ts OK
+2024/1/9 上午 11:04:51: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_077.ts
+2024/1/9 上午 11:04:51: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_075.ts OK
+2024/1/9 上午 11:04:51: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_075.ts
+2024/1/9 上午 11:04:51: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_078.ts OK
+2024/1/9 上午 11:04:51: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_078.ts
+2024/1/9 上午 11:04:52: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_080.ts OK
+2024/1/9 上午 11:04:52: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_080.ts
+2024/1/9 上午 11:04:52: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_079.ts OK
+2024/1/9 上午 11:04:52: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_079.ts
+2024/1/9 上午 11:04:58: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_081.ts OK
+2024/1/9 上午 11:04:58: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_081.ts
+2024/1/9 上午 11:04:58: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_084.ts OK
+2024/1/9 上午 11:04:58: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_084.ts
+2024/1/9 上午 11:04:58: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_085.ts OK
+2024/1/9 上午 11:04:58: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_085.ts
+2024/1/9 上午 11:04:58: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_082.ts OK
+2024/1/9 上午 11:04:58: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_082.ts
+2024/1/9 上午 11:05:00: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_087.ts OK
+2024/1/9 上午 11:05:00: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_087.ts
+2024/1/9 上午 11:05:00: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_083.ts OK
+2024/1/9 上午 11:05:00: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_083.ts
+2024/1/9 上午 11:05:00: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_088.ts OK
+2024/1/9 上午 11:05:00: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_088.ts
+2024/1/9 上午 11:05:00: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_086.ts OK
+2024/1/9 上午 11:05:00: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_086.ts
+2024/1/9 上午 11:05:00: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_093.ts OK
+2024/1/9 上午 11:05:00: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_093.ts
+2024/1/9 上午 11:05:00: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_089.ts OK
+2024/1/9 上午 11:05:00: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_089.ts
+2024/1/9 上午 11:05:02: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_091.ts OK
+2024/1/9 上午 11:05:02: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_091.ts
+2024/1/9 上午 11:05:02: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_094.ts OK
+2024/1/9 上午 11:05:02: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_094.ts
+2024/1/9 上午 11:05:02: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_090.ts OK
+2024/1/9 上午 11:05:02: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_090.ts
+2024/1/9 上午 11:05:04: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_092.ts OK
+2024/1/9 上午 11:05:04: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_092.ts
+2024/1/9 上午 11:05:04: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_095.ts OK
+2024/1/9 上午 11:05:04: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_095.ts
+2024/1/9 上午 11:05:04: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_096.ts OK
+2024/1/9 上午 11:05:04: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_096.ts
+2024/1/9 上午 11:05:04: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_097.ts OK
+2024/1/9 上午 11:05:04: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_097.ts
+2024/1/9 上午 11:05:04: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_099.ts OK
+2024/1/9 上午 11:05:04: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_099.ts
+2024/1/9 上午 11:05:04: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_100.ts OK
+2024/1/9 上午 11:05:04: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_100.ts
+2024/1/9 上午 11:05:04: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_102.ts OK
+2024/1/9 上午 11:05:04: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_102.ts
+2024/1/9 上午 11:05:04: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_098.ts OK
+2024/1/9 上午 11:05:04: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_098.ts
+2024/1/9 上午 11:05:04: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_103.ts OK
+2024/1/9 上午 11:05:04: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_103.ts
+2024/1/9 上午 11:05:04: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_101.ts OK
+2024/1/9 上午 11:05:04: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_101.ts
+2024/1/9 上午 11:05:04: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_105.ts OK
+2024/1/9 上午 11:05:04: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_105.ts
+2024/1/9 上午 11:05:10: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_104.ts OK
+2024/1/9 上午 11:05:10: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_104.ts
+2024/1/9 上午 11:05:10: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_106.ts OK
+2024/1/9 上午 11:05:10: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_106.ts
+2024/1/9 上午 11:05:11: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_110.ts OK
+2024/1/9 上午 11:05:11: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_110.ts
+2024/1/9 上午 11:05:13: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_107.ts OK
+2024/1/9 上午 11:05:13: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_107.ts
+2024/1/9 上午 11:05:13: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_108.ts OK
+2024/1/9 上午 11:05:13: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_108.ts
+2024/1/9 上午 11:05:13: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_111.ts OK
+2024/1/9 上午 11:05:13: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_111.ts
+2024/1/9 上午 11:05:13: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_109.ts OK
+2024/1/9 上午 11:05:13: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_109.ts
+2024/1/9 上午 11:05:13: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_113.ts OK
+2024/1/9 上午 11:05:13: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_113.ts
+2024/1/9 上午 11:05:15: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_116.ts OK
+2024/1/9 上午 11:05:15: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_116.ts
+2024/1/9 上午 11:05:15: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_112.ts OK
+2024/1/9 上午 11:05:15: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_112.ts
+2024/1/9 上午 11:05:15: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_117.ts OK
+2024/1/9 上午 11:05:15: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_117.ts
+2024/1/9 上午 11:05:15: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_115.ts OK
+2024/1/9 上午 11:05:15: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_115.ts
+2024/1/9 上午 11:05:15: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_118.ts OK
+2024/1/9 上午 11:05:15: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_118.ts
+2024/1/9 上午 11:05:16: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_114.ts OK
+2024/1/9 上午 11:05:16: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_114.ts
+2024/1/9 上午 11:05:16: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_120.ts OK
+2024/1/9 上午 11:05:16: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_120.ts
+2024/1/9 上午 11:05:16: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_124.ts OK
+2024/1/9 上午 11:05:16: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_124.ts
+2024/1/9 上午 11:05:16: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_119.ts OK
+2024/1/9 上午 11:05:16: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_119.ts
+2024/1/9 上午 11:05:17: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_121.ts OK
+2024/1/9 上午 11:05:17: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_121.ts
+2024/1/9 上午 11:05:17: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_122.ts OK
+2024/1/9 上午 11:05:17: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_122.ts
+2024/1/9 上午 11:05:19: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_125.ts OK
+2024/1/9 上午 11:05:19: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_125.ts
+2024/1/9 上午 11:05:19: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_126.ts OK
+2024/1/9 上午 11:05:19: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_126.ts
+2024/1/9 上午 11:05:19: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_123.ts OK
+2024/1/9 上午 11:05:19: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_123.ts
+2024/1/9 上午 11:05:21: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_128.ts OK
+2024/1/9 上午 11:05:21: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_128.ts
+2024/1/9 上午 11:05:21: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_127.ts OK
+2024/1/9 上午 11:05:21: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_127.ts
+2024/1/9 上午 11:05:22: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_129.ts OK
+2024/1/9 上午 11:05:22: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_129.ts
+2024/1/9 上午 11:05:22: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_130.ts OK
+2024/1/9 上午 11:05:22: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_130.ts
+2024/1/9 上午 11:05:22: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_132.ts OK
+2024/1/9 上午 11:05:22: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_132.ts
+2024/1/9 上午 11:05:22: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_131.ts OK
+2024/1/9 上午 11:05:22: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_131.ts
+2024/1/9 上午 11:05:25: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_133.ts OK
+2024/1/9 上午 11:05:25: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_133.ts
+2024/1/9 上午 11:05:25: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_134.ts OK
+2024/1/9 上午 11:05:25: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_134.ts
+2024/1/9 上午 11:05:28: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_135.ts OK
+2024/1/9 上午 11:05:28: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_135.ts
+2024/1/9 上午 11:05:28: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_137.ts OK
+2024/1/9 上午 11:05:28: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_137.ts
+2024/1/9 上午 11:05:28: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_136.ts OK
+2024/1/9 上午 11:05:28: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_136.ts
+2024/1/9 上午 11:05:28: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_140.ts OK
+2024/1/9 上午 11:05:28: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_140.ts
+2024/1/9 上午 11:05:28: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_138.ts OK
+2024/1/9 上午 11:05:28: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_138.ts
+2024/1/9 上午 11:05:28: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_142.ts OK
+2024/1/9 上午 11:05:28: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_142.ts
+2024/1/9 上午 11:05:29: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_143.ts OK
+2024/1/9 上午 11:05:29: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_143.ts
+2024/1/9 上午 11:05:33: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_139.ts OK
+2024/1/9 上午 11:05:33: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_139.ts
+2024/1/9 上午 11:05:33: Requesting from https://vpx05.myself-bbs.com/vpx/48647/001/720p_141.ts OK
+2024/1/9 上午 11:05:33: Start Downloading https://vpx05.myself-bbs.com/vpx/48647/001/720p_141.ts
+2024/1/9 上午 11:05:35: All files are downloaded, Start merge files
+2024/1/9 上午 11:05:37: Merge files Success!
+2024/1/9 上午 11:05:37: Starting Convert
+2024/1/9 上午 11:05:39: ffmpeg version 2024-01-04-git-33698ef891-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 12.2.0 (Rev10, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --pkg-config=pkgconf --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-dxva2 --enable-d3d11va --enable-libvpl --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      58. 36.101 / 58. 36.101
+  libavcodec     60. 37.100 / 60. 37.100
+  libavformat    60. 20.100 / 60. 20.100
+  libavdevice    60.  4.100 / 60.  4.100
+  libavfilter     9. 16.100 /  9. 16.100
+  libswscale      7.  6.100 /  7.  6.100
+  libswresample   4. 13.100 /  4. 13.100
+  libpostproc    57.  4.100 / 57.  4.100
+Input #0, mpegts, from 'C:\Users\User\Videos/20240109_110411.ts':
+  Duration: 00:24:02.05, start: 1.483422, bitrate: 849 kb/s
+  Program 1 
+    Metadata:
+      service_name    : Service01
+      service_provider: FFmpeg
+  Stream #0:0[0x100]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 90k tbn
+  Stream #0:1[0x101](und): Audio: aac (LC) ([15][0][0][0] / 0x000F), 44100 Hz, stereo, fltp, 102 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #0:1 -> #0:1 (copy)
+Output #0, mp4, to 'C:\Users\User\Videos/20240109_110411.mp4':
+  Metadata:
+    encoder         : Lavf60.20.100
+  Stream #0:0: Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], q=2-31, 23.98 fps, 23.98 tbr, 90k tbn
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 102 kb/s
+Press [q] to stop, [?] for help
+size=   90880kB time=00:16:58.00 bitrate= 731.3kbits/s speed=1.94e+03x    
+[out#0/mp4 @ 000001fcde4fbec0] video:117989kB audio:23463kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.570404%
+size=  142259kB time=00:24:01.94 bitrate= 808.2kbits/s speed=1.91e+03x    
+
+2024/1/9 上午 11:05:39: Convert Success
+2024/1/9 上午 11:05:39: Deleting all .ts files from tmp folder
+2024/1/9 上午 11:05:40: All .ts files are deleted
+2024/1/9 上午 11:05:40: Saving Log to ./Log/20240109_110411.log
+
